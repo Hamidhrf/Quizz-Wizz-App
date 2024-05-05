@@ -1,6 +1,13 @@
 # Quizz-Wizz-App
 A comprehensive learning platform designed to revolutionize the way students, teachers, and learners engage with educational content. Aiming to provide a dynamic and user-friendly environment for quiz-based learning, exam preparation, and skill enhancement.
 
+![Mockup 1](https://github.com/Hamidhrf/Quizz-Wizz-App/assets/147771244/e5a7b3de-a8b2-4f5c-aad1-691eea048ed6)
+
+![Mockup 2](https://github.com/Hamidhrf/Quizz-Wizz-App/assets/147771244/efa2bc8b-cc68-4d0a-ad6f-7174bc541226)
+
+![Mockup 3](https://github.com/Hamidhrf/Quizz-Wizz-App/assets/147771244/b7f762af-230d-4395-8cbb-90b1f279a010)
+
+
 # Key Objectives
 Self-Paced Learning: To meet each student's unique learning needs, provides an extensive collection of self-assessment questions spanning a wide variety of subjects.
 Accessibility: Available at all times and locations, enabling students to pursue autonomous learning even in places with spotty internet access.
@@ -10,11 +17,9 @@ User-Centered Design: The development approach concentrates on producing an intu
 
 For our stakeholder analysis, we first identified all the project stakeholders and then used the influence-impact grid to prioritize stakeholders with the greatest values so we can meet their needs based on their standing on the grid. In this method, we referred to the influence as the stakeholder’s ability to control the project decisions and impact as the stakeholder’s ability to change the result of the project.
 
- We went further to develop our stakeholder map by placing the level of influence on the y-axis, impact on change on the x-axis and rating each identified stakeholder’s influence and impact on a scale of 0 to 10. This provided more insight on the stakeholder management approach needed to meet the unique needs all stakeholders on this project.
+We went further to develop our stakeholder map by placing the level of influence on the y-axis, impact on change on the x-axis and rating each identified stakeholder’s influence and impact on a scale of 0 to 10. This provided more insight on the stakeholder management approach needed to meet the unique needs all stakeholders on this project.
 
- The diagram below shows the stakeholder map:
-
-List of Stakeholders
+# List of Stakeholders
 
 Product Owner: Responsible for defining the vision and priorities of the app, making decisions about its features, and ensuring it meets user needs.
 
@@ -36,7 +41,7 @@ Legal and Compliance Teams: Ensure that the app adheres to privacy and data prot
 
 <img width="684" alt="Screenshot 2024-05-05 at 11 51 04 PM" src="https://github.com/Hamidhrf/Quizz-Wizz-App/assets/147771244/3f502868-3423-49b7-bc27-13c5d460606f">
 
-Current market analysis app in Germany:
+# Current market analysis app in Germany:
 
 The German app market was falling slight from last pandemic back to 2020, but after 2021, it remains strong with growing number of smartphone users. German was the second largest app market in Europe in 2022 which shows average 3.6 hours people use in mobile apps. Video streaming apps, gaming apps and TikTok’s are earning most revenues and since 2018 it is increasing 2.2 billion on smartphone users per year.
 
